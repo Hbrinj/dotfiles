@@ -1,0 +1,15 @@
+.config/vivaldi
+images
+opensource
+.histfile
+.fehbg
+.cache
+.local
+.ssh
+.wget-hsts
+.pki
+.viminfo.tmp
+.viminfw.tmp
+.viminfx.tmp
+.viminfy.tmp
+.viminfz.tmp

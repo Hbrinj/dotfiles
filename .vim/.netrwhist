@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/houman/.oh-my-zsh/themes'
+let g:netrw_dirhist_2='/home/houman/.config/powerline/themes'
+let g:netrw_dirhist_3='/home/houman/vim-colors-solarized/colors'
+let g:netrw_dirhist_4='/home/houman/.config/compton'
+let g:netrw_dirhist_5='/home/houman/Downloads'
+let g:netrw_dirhist_6='/home/houman/.vim'
+let g:netrw_dirhist_7='/home/houman/opensource/littleb/src'
